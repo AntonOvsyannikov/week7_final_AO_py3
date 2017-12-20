@@ -2,11 +2,13 @@
 
 Это финальное задание курса "Машинное обучение и анализ данных" от МФТИ и Яндекс на Coursera.
 
-Финальное задание я представляю в виде интерактивного ноутбука.
+Финальное задание я представляю в виде интерактивного ноутбука (в данном репозитории находится версия для Pyhton 3.6), который можно [Запустить в Binder](https://mybinder.org/v2/gh/AntonOvsyannikov/week7_final_AO_py3/master?filepath=yellow_taxi_week7_py3.ipynb)
 
-Просьба скачать и распаковать архив с ноутбуком и минимальным набором данных, после чего открыть и запустить ноутбук в Jupyter (Cell/Run All).
+Просто щелкните по [ссылке](https://mybinder.org/v2/gh/AntonOvsyannikov/week7_final_AO_py3/master?filepath=yellow_taxi_week7_py3.ipynb) и нажмите Lunch. Подождите загрузки сервера. Дальнейшие инструкции находятся в ноутбуке.
 
-Ссылка на архив: https://github.com/AntonOvsyannikov/week7_final/raw/master/week7_final_AO.zip
+Версия для Python 2.7 находится [в этом репозитории](https://github.com/AntonOvsyannikov/week7_final)
+
+Для тех, кому по какой либо не удалось запустить программу в Binder рекомендуется скачать и распаковать [архив с ноутбуком и минимальным набором данных для Python 2.7](https://github.com/AntonOvsyannikov/week7_final/raw/master/week7_final_AO.zip), после чего открыть и запустить ноутбук в Jupyter.
 
 **Описание**
 
