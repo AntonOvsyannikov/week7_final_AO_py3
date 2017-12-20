@@ -3,4 +3,4 @@ pandas
 matplotlib
 sklearn
 scipy
-ipywidgets=7.0
+ipywidgets==7.0
