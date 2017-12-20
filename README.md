@@ -8,7 +8,7 @@
 
 Версия для Python 2.7 находится [в этом репозитории](https://github.com/AntonOvsyannikov/week7_final)
 
-Для тех, кому по какой либо не удалось запустить программу в Binder рекомендуется скачать и распаковать [архив с ноутбуком и минимальным набором данных для Python 2.7](https://github.com/AntonOvsyannikov/week7_final/raw/master/week7_final_AO.zip), после чего открыть и запустить ноутбук в Jupyter.
+Для тех, кому по какой либо причине не удалось запустить программу в Binder рекомендуется скачать и распаковать [архив с ноутбуком и минимальным набором данных для Python 2.7](https://github.com/AntonOvsyannikov/week7_final/raw/master/week7_final_AO.zip), после чего открыть и запустить ноутбук в Jupyter.
 
 **Описание**
 
