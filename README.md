@@ -4,7 +4,7 @@
 
 Финальное задание я представляю в виде интерактивного ноутбука (в данном репозитории находится версия для Pyhton 3.6), который можно [Запустить в Binder](https://mybinder.org/v2/gh/AntonOvsyannikov/week7_final_AO_py3/master?filepath=yellow_taxi_week7_py3.ipynb)
 
-Просто щелкните по [ссылке](https://mybinder.org/v2/gh/AntonOvsyannikov/week7_final_AO_py3/master?filepath=yellow_taxi_week7_py3.ipynb) и нажмите Lunch. Подождите загрузки сервера. Дальнейшие инструкции находятся в ноутбуке.
+Просто щелкните по [ссылке](https://mybinder.org/v2/gh/AntonOvsyannikov/week7_final_AO_py3/master?filepath=yellow_taxi_week7_py3.ipynb) и подождите загрузки сервера. Дальнейшие инструкции находятся в ноутбуке.
 
 Версия для Python 2.7 находится [в этом репозитории](https://github.com/AntonOvsyannikov/week7_final)
 
